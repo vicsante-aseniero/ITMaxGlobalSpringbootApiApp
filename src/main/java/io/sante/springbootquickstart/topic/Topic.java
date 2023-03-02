@@ -16,8 +16,7 @@ public class Topic {
 		this.id = id;
 		this.name = name;
 		this.description = description;
-	}
-	
+	}	
 	
 	public String getId() {
 		return id;
@@ -36,7 +35,5 @@ public class Topic {
 	}
 	public void setDescription(String description) {
 		this.description = description;
-	}
-	
-	
+	}	
 }
